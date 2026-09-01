@@ -11,12 +11,12 @@
       "family_id": "cf_interceptor_office",
       "interface_version": "submission_zip.v1",
       "artifact_path": "artifacts/cf_interceptor_office/submission.zip",
-      "sha256": "4b43df3e1d9ec8bdd459745770f97533f5305986e8a9a02c202248b1692f0a54",
-      "size_bytes": 17771401,
+      "sha256": "28e60027a04e032d9cf6ff4b2a2e4955ad7f21b3b7276f54462c461e3aeabed7",
+      "size_bytes": 17775056,
       "metadata": {
         "packaged_with": "manual_zip_multifile",
-        "source_dir_name": "package_g2",
-        "notes": "G3 OP_SH_HYST=3 shield release hysteresis on cf_office_v11"
+        "source_dir_name": "package_mt_res0",
+        "notes": "MT(RES=0): early takeoff climb+XY hold, residual avoid off, HYST=3, RN off; frozen office_actor.pt"
       }
     }
   ]
